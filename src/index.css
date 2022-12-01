@@ -1,0 +1,68 @@
+.section1{
+    text-align: center;
+    background-color: #4c65d4;
+    color:white;
+}
+.section1-heading{
+
+    margin-bottom:0.3px;
+}
+.section1-items a{
+    color:aqua
+}
+
+.section2-heading{
+
+    margin-top: 0.2px;
+    text-align: center;
+}
+
+img{
+    width:300px
+}
+.section2 .section2-p2{
+    margin-bottom: 0;
+}
+
+.section2 .section2-p3{
+
+margin-top: 0;
+margin-bottom: 0;
+
+}
+.common-section .section3-heading{
+    margin-top:0px;
+    margin-bottom:0.3px;
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.common-section .common-1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.common-section .common-heading{
+    text-align: center;
+    margin-top: 0;
+margin-bottom: 0;
+}
+
+.footer .section1-items{
+
+    text-align: center;
+   /* margin-left:5rem; */
+}
+.footer{
+
+    background-color: #4c65d4;;
+
+}
+.footer h2{
+
+    
+    margin-top: 0;
+    margin-bottom: 0;
+}
+    
